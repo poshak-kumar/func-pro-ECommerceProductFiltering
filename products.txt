@@ -1,0 +1,5 @@
+Apple watch,Watch,50.0,4.9
+Oppo Phone,Phone,100.0,4.5
+T-shirt,clothes,15.0,4.3
+Shirt,clothes,20.0,4.6
+Redmi Phone,Phone,80.0,4.7
